@@ -1,0 +1,1 @@
+Estudos sobre versionamento de arquivos e primeiros passos na ferramenta de versionamento Git.
